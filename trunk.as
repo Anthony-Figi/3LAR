@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class trunk extends MovieClip {				public var DC;				public function trunk(Doc) {						this.DC = Doc;			this.x = 150;			this.y = 90;		}	}	}

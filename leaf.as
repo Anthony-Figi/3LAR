@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class leaf extends MovieClip {				public var DC;				public function leaf(xPos,yPos, zRot) {			 this.x = xPos;			 this.y = yPos;			 this.rotationZ = zRot;			 this.		}	}	}
