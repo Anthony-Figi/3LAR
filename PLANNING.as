@@ -1,1 +1,1 @@
-﻿Initial function that downloads tweets and adds them to an arrayFunction that creates a leaf for each tweet added and adds it to the stagePeriodical event listener that checks tweet list and adds new tweets to the array + leafs to stage
+﻿If x is greater than 512 on start go positive on up arrow and reverse
