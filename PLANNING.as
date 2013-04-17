@@ -1,1 +1,1 @@
-﻿If x is greater than 512 on start go positive on up arrow and reverse
+﻿Need to change where they start (make them start like 200 but bring scale up) 
