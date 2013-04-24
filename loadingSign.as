@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class loadingSign extends MovieClip {						public function loadingSign() {			this.x = 450;			this.y = 800;			this.scaleX = 0.5;			this.scaleY = 0.5;			// constructor code		}	}	}
