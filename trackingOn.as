@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class trackingOn extends MovieClip {						public function trackingOn() {						this.x = 1100;			this.y = 20;			this.scaleX = 0.4;			this.scaleY = 0.4; 			// constructor code		}	}	}
