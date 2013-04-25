@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class night extends MovieClip {				public var DC; 				public function night(DC) {			this.DC = DC; 			this.alpha = 0.4; 			this.y = -50;		}				public function updateNight(sunY) {			if(this.alpha > -0.3 && this.alpha < 1.3){				this.alpha -= sunY/60-0.001;			}						trace(this.alpha);		}	}	}
