@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class rightMarker extends MovieClip {						public function rightMarker(xPos, yPos) {			this.x = xPos;			this.y = yPos;			this.z = 0;		}	}	}
