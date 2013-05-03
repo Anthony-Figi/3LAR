@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class main extends MovieClip {		public var starArray:Array = new Array();				public function main() {			for (var i:Number=0; i<500; i++) {				var starry = new star();				starArray.push(starry);				};						for (var t:Number=0; t<starArray.length;t++){				this.addChild(starArray[t]); 				};		}	}	}
