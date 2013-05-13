@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class swingBody extends MovieClip {						public function swingBody() {			// constructor code		}	}	}
