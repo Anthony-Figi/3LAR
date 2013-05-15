@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class stormCloud extends MovieClip {				public var DC;				public function stormCloud(DC, xPos, yPos, scale) {			this.DC = DC;			this.x = xPos; 			this.y = yPos; 			this.scaleX = scale; 			this.scaleY = scale; 			this.alpha = 0;					}	}	}
