@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class seesaw extends MovieClip {						public function seesaw() {				this.x = -500; 				this.y = 100;				this.scaleX = 0.2;				this.scaleY = 0.2;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}
