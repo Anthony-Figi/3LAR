@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;	import com.caurina.transitions.Tweener;				public class bees extends Sound {						public function bees() {							}	}	}
