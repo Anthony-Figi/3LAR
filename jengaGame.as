@@ -1,19 +1,1 @@
-﻿package  {
-	
-	import flash.display.MovieClip;
-	
-	
-	public class jengaGame extends MovieClip {
-		
-		
-		public function jengaGame() {
-			this.x = 300; 
-				this.y = 100;
-				this.scaleX = 0.2;
-				this.scaleY = 0.2;
-				this.alpha = 1; 
-				this.rotationZ = 0;
-		}
-	}
-	
-}
+﻿package  {		import flash.display.MovieClip;			public class jengaGame extends MovieClip {						public function jengaGame() {			this.x = -900; 				this.y = 100;				this.scaleX = 0.7;				this.scaleY = 0.7;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}

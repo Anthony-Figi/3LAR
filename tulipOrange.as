@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class tulipOrange extends MovieClip {						public function tulipOrange(xPos, yPos, scale) {			this.x = xPos; 			this.y = yPos;			this.scaleX = scale;			this.scaleY = scale;		}	}	}

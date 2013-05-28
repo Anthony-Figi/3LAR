@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class rockThree extends MovieClip {						public function rockThree(xPos, yPos, scale) {			this.x = xPos; 				this.y = yPos;				this.scaleX = scale;				this.scaleY = scale;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}

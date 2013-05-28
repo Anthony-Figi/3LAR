@@ -1,19 +1,1 @@
-﻿package  {
-	
-	import flash.display.MovieClip;
-	
-	
-	public class signpostDragon extends MovieClip {
-		
-		
-		public function signpostDragon() {
-			this.x = 300; 
-				this.y = 100;
-				this.scaleX = 0.2;
-				this.scaleY = 0.2;
-				this.alpha = 1; 
-				this.rotationZ = 0;
-		}
-	}
-	
-}
+﻿package  {		import flash.display.MovieClip;			public class signpostDragon extends MovieClip {						public function signpostDragon() {			this.x = 400; 				this.y = 125;				this.scaleX = 0.4;				this.scaleY = 0.4;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}

@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class blueFlower extends MovieClip {						public function blueFlower(xPos, yPos, scale) {			this.x = xPos; 			this.y = yPos;			this.scaleX = scale;			this.scaleY = scale;		}	}	}

@@ -1,19 +1,1 @@
-﻿package  {
-	
-	import flash.display.MovieClip;
-	
-	
-	public class pirateShip extends MovieClip {
-		
-		
-		public function pirateShip() {
-			this.x = 300; 
-				this.y = 100;
-				this.scaleX = 0.2;
-				this.scaleY = 0.2;
-				this.alpha = 1; 
-				this.rotationZ = 0;
-		}
-	}
-	
-}
+﻿package  {		import flash.display.MovieClip;			public class pirateShip extends MovieClip {						public function pirateShip() {			this.x = -1050; 				this.y = -280;				this.scaleX = 0.85;				this.scaleY = 0.85;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}
