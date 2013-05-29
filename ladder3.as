@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class ladder3 extends MovieClip {						public function ladder3() {			// constructor code		}	}	}

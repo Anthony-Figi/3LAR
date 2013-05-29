@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class racingTrack extends MovieClip {						public function racingTrack() {				this.x = -1200; 				this.y = 50;				this.scaleX = 0.8;				this.scaleY = 0.8;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}
