@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class river2 extends MovieClip {						public function river2() {			this.x = -1110; 				this.y = -47;				this.scaleX = 1.17;				this.scaleY = 1.160;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}
+﻿package  {		import flash.display.MovieClip;			public class river2 extends MovieClip {						public function river2() {			this.x = -1115; 				this.y = 49;				this.scaleX = 0.42;				this.scaleY = 0.415;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}
