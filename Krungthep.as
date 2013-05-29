@@ -1,0 +1,1 @@
+﻿package  {		import flash.text.Font;			public class Krungthep extends Font {						public function Krungthep() {			// constructor code		}	}	}
