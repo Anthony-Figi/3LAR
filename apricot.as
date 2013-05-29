@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class apricot extends MovieClip {						public function apricot() {			// constructor code		}	}	}

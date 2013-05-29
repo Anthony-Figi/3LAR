@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class greenApple extends MovieClip {						public function greenApple() {			// constructor code		}	}	}
