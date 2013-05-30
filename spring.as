@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class spring extends MovieClip {						public function spring() {			// constructor code		}	}	}

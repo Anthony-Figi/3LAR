@@ -1,11 +1,8 @@
 give bug game a finish
 add more seasons art
 create drawing sequence
-create tutorial menu
-random actions function
 slow down sunset
 give leaves a better gradient
 put in extra trees
 clean up leaf placement function
 add sounds
-zoom leaf function clean
