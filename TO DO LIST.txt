@@ -1,6 +1,5 @@
 give bug game a finish
 add more seasons art
-clean up weather
 create drawing sequence
 create tutorial menu
 random actions function
