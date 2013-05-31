@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class khoaSignpost extends MovieClip {						public function khoaSignpost() {				this.x = 500; 				this.y = 350;				this.scaleX = 0.4;				this.scaleY = 0.4;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}

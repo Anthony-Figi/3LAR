@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class parkPond2 extends MovieClip {						public function parkPond2() {			this.x = 430; 				this.y = 600;				this.scaleX = 0.8;				this.scaleY = 0.8;				this.alpha = 1; 				this.rotationZ = 0;		}	}	}
