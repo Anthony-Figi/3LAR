@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class woofTail extends MovieClip {						public function woofTail() {			this.x = -530; 				this.y = 170;				this.scaleX = 0.4;				this.scaleY = 0.4;		}	}	}

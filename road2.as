@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class road2 extends MovieClip {						public function road2() {				this.x = -1200; 				this.y = 300;				this.scaleX = 1.5;				this.scaleY = 1.5;				this.alpha = 1; 				this.rotationZ = 0;				this.stop();		}	}	}
+﻿package  {		import flash.display.MovieClip;			public class road2 extends MovieClip {						public function road2() {				this.x = -1230; 				this.y = 300;				this.scaleX = 1.5;				this.scaleY = 1.5;				this.alpha = 1; 				this.rotationZ = 0;				this.stop();		}	}	}

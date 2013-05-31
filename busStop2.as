@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class busStop2 extends MovieClip {						public function busStop2() {			this.x = -800; 				this.y = 100;				this.scaleX = 1;				this.scaleY = 1;				this.alpha = 1; 				this.rotationZ = 0;				this.stop();		}	}	}
+﻿package  {		import flash.display.MovieClip;			public class busStop2 extends MovieClip {						public function busStop2() {			this.x = -820; 				this.y = 100;				this.scaleX = 1;				this.scaleY = 1;				this.alpha = 1; 				this.rotationZ = 0;				this.stop();		}	}	}

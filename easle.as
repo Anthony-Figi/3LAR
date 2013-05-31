@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class easle extends MovieClip {						public function easle() {			this.x = 450; 				this.y = 120;				this.scaleX = 0.4;				this.scaleY = 0.4;		}	}	}

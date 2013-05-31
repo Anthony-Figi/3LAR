@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class parkBench extends MovieClip {						public function parkBench() {				this.x = 700; 				this.y = 110;				this.scaleX = 0.6;				this.scaleY = 0.6;				this.alpha = 1; 				this.rotationZ = -10;		}	}	}
+﻿package  {		import flash.display.MovieClip;			public class parkBench extends MovieClip {						public function parkBench() {				this.x = 800; 				this.y = 110;				this.scaleX = 0.6;				this.scaleY = 0.6;				this.alpha = 1; 				this.rotationZ = -5;		}	}	}

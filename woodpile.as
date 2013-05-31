@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class woodpile extends MovieClip {						public function woodpile() {			this.x = -680; 				this.y = 180;				this.scaleX = 0.25;				this.scaleY = 0.25;		}	}	}
